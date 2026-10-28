@@ -1,4 +1,3 @@
-# FinNews AI – Financial News Simplifier
 ⚡ FinHealth – SaveIQ: AI Savings Goal Tracker & Analytics Dashboard
 Tests AI Engine Platform License: MIT
 
